@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "TraduMe"
 include(":app")
+include(":tradume-uikit")
+// features
+include(":features:tradume-main")

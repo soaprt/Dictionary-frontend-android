@@ -1,4 +1,4 @@
-package com.ostin.tradume.ui.theme
+package com.ostin.tradume.uikit
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
