@@ -23,7 +23,9 @@ rootProject.name = "TraduMe"
 include(":app")
 // modules
 include(":tradume-api")
+include(":tradume-data")
 include(":tradume-uikit")
 // features
 include(":features:tradume-main")
+
 
