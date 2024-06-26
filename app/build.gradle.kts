@@ -81,6 +81,7 @@ dependencies {
 
     implementation(libs.androidx.material3)
 
+    implementation(project(":tradume-api"))
     implementation(project(":tradume-uikit"))
     implementation(project(":features:tradume-main"))
 }
